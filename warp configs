@@ -1,3 +1,4 @@
 warp://162.159.192.111:3854?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#mehdi
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@188.114.97.170:894#warp in warp
 warp://162.159.192.168:854?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto
+warp://p1@162.159.192.168:854?ifpm=m4#LocalIP&&detour=warp://p2@auto#WarpInWarp
